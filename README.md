@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Artifect
+- 👀 I’m interested in learning R
+- 🌱 I’m currently learning Public Health and Spanish
+- 💞️ I’m looking to collaborate on ...TBD
+- 📫 How to reach me MCuella2@uncc.edu
